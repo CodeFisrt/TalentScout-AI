@@ -1,0 +1,4 @@
+-- Optional: Seed a demo user
+-- Run from backend folder: npm run seed
+-- That will create user demo@talentscout.ai with password: demo123
+-- (Password is hashed with bcrypt in scripts/seed-demo-user.js)
